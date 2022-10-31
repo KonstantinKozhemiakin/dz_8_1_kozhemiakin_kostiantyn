@@ -3,4 +3,11 @@ def main_function():
     print("Second commit")
     print("Third commit")
     print("Fourth commit")
+
+
+def test_function():
+    print("Fifth commit, branch test")
+
+
 main_function()
+test_function()
